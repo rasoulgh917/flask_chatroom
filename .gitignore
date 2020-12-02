@@ -1,0 +1,12 @@
+accounts_service/venv/
+accounts_service/.env
+accounts_service/.vscode/
+accounts_service/__pychache/
+Decompose
+IDEA
+TODO
+users_service_todo
+chat_service_todo
+chat_service/venv/
+chat_service/app/.env
+settings_service/
